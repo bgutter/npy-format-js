@@ -3,7 +3,7 @@ A JavaScript library for robustly and efficiently reading Numpy (*.NPY) format d
 
 # Goal
 
-Full and complete support for the Numpy data format.
+Full and complete support for the Numpy data format, minus object value arrays (which would require pickle support).
 
 # Why not NPYJS?
 
